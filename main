@@ -1,4 +1,4 @@
-git init
+git init -y
 git add .
 git commit -m "Początkowy commit"
 git remote add origin https://github.com/yokinashii/interaktywny-odtwarzacz-radiowy.git
